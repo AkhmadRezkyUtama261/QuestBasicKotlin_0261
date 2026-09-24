@@ -11,5 +11,9 @@
 4. Data class dan pembuatannya
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 112759" src="https://github.com/user-attachments/assets/4fbd1ee9-9caf-4250-8311-e494d58b83ff" />
 
+5. Perulangan (loop) dan List
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 112843" src="https://github.com/user-attachments/assets/0da556dc-3453-43e1-8825-295a819ae317" />
+
+
 
 
