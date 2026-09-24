@@ -8,4 +8,8 @@
 3. Conditional expression dengan when
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 112714" src="https://github.com/user-attachments/assets/1fcbfb24-7a30-40ae-83b8-704c7deca587" />
 
+4. Data class dan pembuatannya
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 112759" src="https://github.com/user-attachments/assets/4fbd1ee9-9caf-4250-8311-e494d58b83ff" />
+
+
 
