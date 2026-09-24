@@ -5,3 +5,7 @@
 2. Fungsi dengan parameter dan return value
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 112640" src="https://github.com/user-attachments/assets/720d03a8-92ff-40f4-a7b4-486e5db6aa08" />
 
+3. Conditional expression dengan when
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 112714" src="https://github.com/user-attachments/assets/1fcbfb24-7a30-40ae-83b8-704c7deca587" />
+
+
